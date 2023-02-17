@@ -73,7 +73,7 @@ the repository.
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Dani Morillo**
+👤 **Ikonde Nekemiah Arnold**
 
 - GitHub: [@githubhandle](https://github.com/arnoldnekemiah)
 - Twitter: [@twitterhandle](https://twitter.com/arnoldikonde)
